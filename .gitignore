@@ -1,0 +1,23 @@
+.*class
+
+# package file
+*.war
+*.ear
+
+# maven ignore
+target/
+
+#kdiff3 ignore
+*.orig
+
+#eclipse ignore
+.settings/
+.project
+.classpath
+
+# temp file
+
+*.log
+*cache
+*.diff
+*.tmp
